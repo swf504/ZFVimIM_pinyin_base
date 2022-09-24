@@ -1,9 +1,11 @@
+ao 1
 can 1
 chang 1
 ding 1
 jie 2
 kao 1
 ma 3
+sai 1
 te 1
 tong 1 1
 yi 1
