@@ -1,3 +1,4 @@
+ai 1
 ao 1
 can 1
 chang 1
