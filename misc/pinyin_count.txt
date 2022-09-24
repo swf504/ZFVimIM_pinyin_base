@@ -2,6 +2,7 @@ ai 1
 ao 1
 can 1
 chang 1
+dian 1
 ding 1
 fa 1
 jie 2
