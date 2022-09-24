@@ -1,0 +1,11 @@
+can 1
+chang 1
+ding 1
+jie 2
+kao 1
+ma 3
+te 1
+tong 1 1
+yi 1
+yong 1
+zhi 1
