@@ -11,6 +11,8 @@ ma 3
 sai 1
 te 1
 tong 1 1
+xi 2
+xin 2
 yi 1
 yong 1
 zhi 1
